@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: hirobima/portfolio-cnc
   branch: main
 
 media_folder: "images"
